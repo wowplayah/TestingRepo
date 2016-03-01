@@ -9,11 +9,18 @@ First Time
 
 1. Buat new project di unity, masukan nama, biarkan yang lainnya.
 2. Import beberapa packages yang kita butuhkan :
-assets -> import packages -> character (Import all)
+assets -> import packages -> Character (Import all)
+assets -> import packages -> Visual Studio 2015 Tools (Import all)
+
 3. Ambil file di github 
 	- Chapter
 	- Material
 4. Drag and drop ke Assets di unity
+---------------------------------------------
+Unity Option
+
+1. Window -> Lightning
+	- Scroll kebawah dan uncheck Auto di bagian Other Settings
 ---------------------------------------------
 First Chapter
 
