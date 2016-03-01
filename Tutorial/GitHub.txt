@@ -1,0 +1,42 @@
+----------------------------------------------
+Masuk Repo Project
+
+1. Follow saya di git hub : wowplayah
+2. Chat di whatsapp nama akunnya
+3. Saya masukan ke Repo
+----------------------------------------------
+Git Hub Desktop
+
+1. Instal Git Hub Dekstop
+2. Buka Git Hub, jika telah saya masukan ke repo maka di sebelah kiri ada Repositori yang bernama "TestingRepo"
+3. Klik TestingRepo, Klik di tab atas sebelah tulisan master
+4. Masukan nama branch kalian, digunakan untuk nanti kalian melakukan editing, sehingga tidak langsung mengedit master
+5. Click Create new branch
+6. Upload dengan menekan tombol Upload di pojok kanan atas
+7. Setelah selesai, pencet Sync 1x
+----------------------------------------------
+Editing Branch
+
+1. Pastikan disebelah kanan tombol Create New Branch adalah nama Branch kalian
+2. Dipojok kanan atas, klik option, open in explorer, di folder itulah anda dapat mengedit dan menyimpan file file nya
+----------------------------------------------
+Updating Branch
+
+1. Jika anda melakukan perubahan di dalam folder tersebut, maka di Applikasi git hub akan terlihat apa saja yang anda edit/tambahkan
+2. Untuk mengupdate file tersebut ke master, isi Summary dengan judul yang anda lakukan, dan di description isi dengan deskripsinya sesuai dengan hasil editan anda.
+3. Lalu, click Commit to SyafiiWork
+----------------------------------------------
+Upload data yang di commit
+
+1. Pastikan anda telah meng-Commit semua perubahan yang anda lakukan
+2. Dibagian atas kanan, klik Pull Request (PR)
+3. Bagian atas biarkan nama branch kalian, descriptionnya diisi dengan apa saja yang telah kalian edit dan lakukan.
+"Tolong diberi penjelasan yang jelas, agar kita sesama programer yang membaca tidak bingung, karna setelah di send, file editan anda akan berada di server."
+4. Setelah itu Send pull request
+5. Menunggu saya melakukan merge
+----------------------------------------------
+Ambil data terbaru dari server
+
+1. Klik sync di kanan atas
+2. Tunggu hingga loading selesai
+"Ingat, semua data yang diambil akan me-Replace data yang ada di local anda, jika anda telah melakukan editing, jangan lupa melakukan commit dan pull request"
