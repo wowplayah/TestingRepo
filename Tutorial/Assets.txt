@@ -1,0 +1,16 @@
+Assets yang dipakai :
+
+"Standart Assets"
+
+Unity Build In Assets :
+- Character
+- Visual Studio
+- Prototyping
+- Environment
+
+"Other Assets"
+
+Unity Store Assets
+- HP Assets (Our Assets)
+- Unity-chan
+- Nature Starter Kit 2
