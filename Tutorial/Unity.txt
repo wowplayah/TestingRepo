@@ -5,6 +5,12 @@ First Time
 2. Import beberapa packages yang kita butuhkan :
 assets -> import packages -> Character (Import all)
 assets -> import packages -> Visual Studio 2015 Tools (Import all)
+assets -> import packages -> Prototyping (Import all)
+assets -> import packages -> Environment (Import all)
+
+Store Assets (Optional)
+- Unity-chan
+- Nature Starter Kit 2
 
 3. Ambil file di github 
 	- Chapter
